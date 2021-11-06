@@ -2,6 +2,7 @@ from selenium import webdriver
 import selenium
 from selenium.webdriver.common.keys import Keys
 import time
+import csv
 
 
 path = "C:\Program Files\chromedriver.exe"
